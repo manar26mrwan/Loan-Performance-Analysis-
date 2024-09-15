@@ -1,5 +1,4 @@
-# Loan-Performance-Analysis-Owner avatar
-# Demystifying-Risk-of-Lending-Club
+# Loan-Performance-Analysis:Demystifying-Risk-of-Lending-Club
 
 # Objective:
 To understand the key aspects of Peer-to-Peer (P2P) lending, focusing on the operations of Lending Club. This includes an analysis of data points relevant to P2P investments, P2P lending processes, financial risks, and prepayment risks associated with loans.
